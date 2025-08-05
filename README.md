@@ -30,9 +30,9 @@ You can install required Python packages using:
 ```bash
 pip install -r requirements.txt
 
-## 2. Run the Notebooks
+### 2. Run the Notebooks
 
-Use **Jupyter Notebook** or **JupyterLab** to execute each notebook in order:
+Use **Jupyter Notebook** to execute each notebook in order:
 
 1. `01_generation.ipynb`
 2. `02_projection.ipynb`
@@ -42,7 +42,7 @@ Each notebook is self-contained and includes documentation to help reproduce the
 
 ---
 
-## 📊 Demo Data
+### Demo Data
 
 We include a small dummy dataset: `synthetic_sample.csv` to illustrate the workflow.  
 This dataset mimics the structure of the real MTMC data and supports full execution of the code.
@@ -65,18 +65,18 @@ You may replace the dummy data with your own disaggregated dataset, as long as t
 
 ---
 
-## 📄 Citation
+### Citation
 
 **Paper:** *Adaptive synthetic generation using one-step Gibbs Sampler*  
 **Authors:** Marija Kukic, Michel Bierlaire  
 **Status:** Under review at *Transportation Research Interdisciplinary Perspectives*  
-**Link:** _To be added upon acceptance_
+**Link:** TBA
 
 > If you use this code for academic work, please cite the paper once it becomes publicly available.
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Marija Kukic**  
 [marija.kukic@epfl.ch](mailto:marija.kukic@epfl.ch)
