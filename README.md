@@ -25,7 +25,7 @@ Note: The original Swiss MTMC datasets used in the paper are not included due to
 ---
 
 ### 1. Install dependencies
-You can install required Python packages using:
+You can install required Python packages using: pip install -r requirements.txt
 
 
 ### 2. Run the Notebooks
