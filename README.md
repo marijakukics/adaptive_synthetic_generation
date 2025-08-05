@@ -75,7 +75,7 @@ You may replace the dummy data with your own disaggregated dataset, as long as t
 ---
 
 ## Contact
-
+For any additional questions, you can email me! 
 **Marija Kukic**  
 [marija.kukic@epfl.ch](mailto:marija.kukic@epfl.ch)
 
