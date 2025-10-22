@@ -68,7 +68,7 @@ You may replace the dummy data with your own disaggregated dataset, as long as t
 **Paper:** *Adaptive synthetic generation using one-step Gibbs Sampler*  
 **Authors:** Marija Kukic, Michel Bierlaire  
 **Status:** Published in *Transportation Research Interdisciplinary Perspectives*  
-**Link:** [TBA](https://doi.org/10.1016/j.trip.2025.101597)
+**Link:** https://doi.org/10.1016/j.trip.2025.101597
 
 > If you use this code for academic work, please cite the paper.
 
