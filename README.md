@@ -1,4 +1,4 @@
-# Adaptive Synthetic Population Generation using One-step Gibbs Sampler
+# Adaptive Synthetic Population Generation using Gibbs Sampler
 
 This repository provides a reproducible implementation of the adaptive synthetic population generation framework described in the paper *"Adaptive synthetic generation using one-step Gibbs Sampler"*.
 
