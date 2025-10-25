@@ -1,9 +1,9 @@
 # Adaptive Synthetic Population Generation using Gibbs Sampler
 
-This repository provides a reproducible implementation of the adaptive synthetic population generation framework described in the paper *"Adaptive synthetic generation using one-step Gibbs Sampler"*.
+This repository provides a reproducible implementation of the adaptive synthetic population generation framework described in the paper *"Adaptive synthetic generation using Gibbs Sampler"*.
 
 The method combines:
-- Initial population generation using a one-step Gibbs Sampler
+- Initial population generation using a Gibbs Sampler
 - Annual demographic projection through dynamic projection
 - Adaptive resampling using Gibbs-based correction based on newly available data
 
