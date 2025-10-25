@@ -1,0 +1,36 @@
+htype:
+
+10 - single
+30 - non-uniformn (non-family) household
+210 - couple
+220 - couple with children
+230 - single parent with children
+
+age_discrete: (follows age_category function)
+
+1 - <=14
+2 - 15-17
+3 - 18-23
+4 - 24-43
+5 - 44-64
+6 - >=65
+
+gender:
+ 
+1 - male
+2 - female
+
+marital_status:
+
+1 - single
+2 - married
+3 - widowed
+4 - divorced
+
+employed:
+
+1 - employed
+2 - unemployed
+3 - in education
+4 - retired
+5 - age <=14
